@@ -1,4 +1,4 @@
-,age,job,marital,education,default,balance,housing,loan,contact,day_of_week,month,duration,campaign,pdays,previous,poutcome,y
+age,job,marital,education,default,balance,housing,loan,contact,day_of_week,month,duration,campaign,pdays,previous,poutcome,y
 0,58,management,married,tertiary,no,2143,yes,no,,5,may,261,1,-1,0,,no
 1,44,technician,single,secondary,no,29,yes,no,,5,may,151,1,-1,0,,no
 2,33,entrepreneur,married,secondary,no,2,yes,yes,,5,may,76,1,-1,0,,no
